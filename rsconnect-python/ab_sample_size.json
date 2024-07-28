@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/home/anzelpwj/Documents/shiny_test/ab_sample_size",
+        "app_url": "https://anzelpwj.shinyapps.io/ab_sample_size1/",
+        "app_id": 12375979,
+        "app_guid": null,
+        "title": "ab_sample_size",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
